@@ -1,4 +1,4 @@
-## Hi, I'm Sanara ✨
+## Hi, I'm Samara ✨
 
 <!--
 **sjacobo3/sjacobo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
