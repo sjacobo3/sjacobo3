@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Few Details:
-- 🌱 I’m currently learning web development
-- 😄 Pronouns: She/Her
+🧠 Senior CS student at the University of Notre Dame
+🌱 I’m currently learning web development
+😄 Pronouns: She/Her
