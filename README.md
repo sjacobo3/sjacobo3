@@ -1,7 +1,6 @@
 <!-- **sjacobo3/sjacobo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # Hi, I'm Samara ✨
-🧠 Senior CS student at the University of Notre Dame<br/>
-🌱 I’m currently learning web development<br/>
+🌱 I’m currently learning web development
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💻 Skills:
